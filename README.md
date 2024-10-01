@@ -13,7 +13,7 @@ Also dedicated for .NET developers to participate in Hacktoberfest.
 4. look of refactoring code or adding new features to the todo app
 5. Make a reasonable commit
 6. Send a reasonable pull request
-7. And wait for you PR to be accepted for hacktoberfest.
+7. And wait for your PR to be accepted for hacktoberfest.
 8. Happy hacking.
 
 > We can start simple (Transaction Script) and simply refactor to the patterns that emerges from code smells we see in the business logic. [Vertical slice architecture by Jimmy Bogard](https://jimmybogard.com/vertical-slice-architecture/).
