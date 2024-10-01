@@ -6,6 +6,15 @@ The Vertical Slice architecture style is about organizing code by features and v
 Vertical Slice architecture can be a starting point and can be evolved later when an application become more sophisticated:
 
 Also dedicated for .NET developers to participate in Hacktoberfest.
+## How to contribute?
+1. Fork the repo
+2. Clone the your Forked repository
+3. Work on a different branch
+4. look of refactoring code or adding new features to the todo app
+5. Make a reasonable commit
+6. Send a reasonable pull request
+7. And wait for you PR to be accepted for hacktoberfest.
+8. Happy hacking.
 
 > We can start simple (Transaction Script) and simply refactor to the patterns that emerges from code smells we see in the business logic. [Vertical slice architecture by Jimmy Bogard](https://jimmybogard.com/vertical-slice-architecture/).
 
