@@ -5,6 +5,8 @@ This project is an experiment trying to create a API solution template that uses
 The Vertical Slice architecture style is about organizing code by features and vertical slices instead of organizing by technical concerns. It's about an idea of grouping code according to the business functionality and putting all the relevant code close together.
 Vertical Slice architecture can be a starting point and can be evolved later when an application become more sophisticated:
 
+Also dedicated for .NET developers to participate in Hacktoberfest.
+
 > We can start simple (Transaction Script) and simply refactor to the patterns that emerges from code smells we see in the business logic. [Vertical slice architecture by Jimmy Bogard](https://jimmybogard.com/vertical-slice-architecture/).
 
 # Give it a star ⭐
